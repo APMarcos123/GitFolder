@@ -1,0 +1,55 @@
+ng new <project_name>
+
+cd <project_name>
+
+ng serve --open
+
+ng g c login                   //g = generate c = component used to create a component
+
+Ctrl+c to stop execution
+
+cd..   //to come out of project
+
+npm install -g typescript              // to install typescript
+
+tsc first.ts   //to compile typescript
+
+node first.js  //to run js file
+
+ng serve --port 8080  //to change port
+
+npm install --save bootstrap
+
+ng g m admin --routing                   //for adding module
+
+ng g c admin/user          // for adding user component inside a module
+
+ng g p age           // for adding age pipe
+
+ng add @angular/material        // for installing angular material
+
+npm test         // for testing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==============================================================================
+
+database link :  https://demoproduct-9432f-default-rtdb.firebaseio.com
+
+
+
